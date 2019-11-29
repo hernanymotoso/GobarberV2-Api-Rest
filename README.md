@@ -1,7 +1,7 @@
 ## Projeto Gobarber-V2
   Refiz o projeto para fixar o conhecimento.
 
-  App para agedamendo de serviços de cabeleireiro.
+  App para agendamendo de serviços de cabeleireiro.
 
 ## Requisitos
 
